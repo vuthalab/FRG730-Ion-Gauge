@@ -1,3 +1,9 @@
+'''
+Code used to perform serial communication and log data with the FRG730 Full-Range Ion Gauge
+Written by: Mohit Verma
+November, 2019
+All informations for commands are taken from the FRG730 Operating Manual
+'''
 import serial
 import numpy as np
 import time
